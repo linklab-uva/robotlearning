@@ -4,7 +4,7 @@ course_description: "A robot is a machine that senses its environment using sens
 course_semester: "Fall 2022"
 
 baseurl: "/robotlearning" # the subpath of your site, e.g. /blog/
-url: "https://linklab-uva.github.io/robotlearning/" # the base hostname & protocol for your site
+url: "https://linklab-uva.github.io" # the base hostname & protocol for your site
 
 schoolname: "University of Virginia"
 #schoolurl: "https://hogwarts.edu"
