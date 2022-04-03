@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Learning in Robotics
+course_description: "A robot is a machine that senses its environment using sensors, interacts with this environment using actuators to perform a given task and does so efficiently using previous experience of performing similar tasks. We will cover the fundamentals of these three aspects of robotics: perception, planning and learning. A tentative list of topics includes state estimation (EKF, UKF, Particle Filters, visual-inertial odometry), control and planning (LQR, MDPs, sampling-based planning, bayesian methods), reinforcement learning (policy gradients, Q-learning, Imitation Learning, Offline RL) and some miscellaneous topics (meta-learning and formal verification). The coursework will have both applied and theoretical aspects. This is a graduate level class; undergraduates will need permission from the instructor to enroll. Some experience with, or appreciation of, robotics is recommended."
+course_semester: "Fall 2022"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/robotlearning" # the subpath of your site, e.g. /blog/
+url: "https://linklab-uva.github.io/robotlearning/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "University of Virginia"
+#schoolurl: "https://hogwarts.edu"
+#twitter_username: username
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    151 Engineer's Way
+    Olsson Hall - Link Lab
+    Charlottesville, VA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
