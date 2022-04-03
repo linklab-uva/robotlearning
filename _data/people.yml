@@ -1,11 +1,10 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Madhur Behl
+    profile_pic: /_images/pp/madhur.jpeg
+    webpage: https://www.madhurbehl.com/
 
-teaching_assistants:
+
+#teaching_assistants:
   - name: Harry Potter
     profile_pic: /_images/pp/potter.jpg
     webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
