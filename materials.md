@@ -14,12 +14,12 @@ Detailed instructor notes in addition to supplementary reading material from the
 6. (Russell) “Artificial Intelligence: A Modern Approach” by Stuart Russell and Peter Norvig. [PDF](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
 
 The following books contain some advanced material. You can use it for your own reference and to brush up fundamentals of machine learning and optimization.
-“Pattern Recognition and Machine Learning” by Christopher Bishop. [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-“An Invitation to 3-D Vision: From Images to Models“ by Yi Ma, Stefano Soatto, Jana Kosecka, Shankar Sastry. [PDF](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf)
-“Reinforcement Learning and Optimal Control” by Dmitri Bertsekas. [Material](https://web.mit.edu/dimitrib/www/RLbook.html)
-“Feedback Systems: An Introduction for Scientists and Engineers” by Karl Johan Astrom and Richard M. Murray, [PDF](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_28Sep12.pdf)
-(Advanced) “Linear Systems Theory” by João P. Hespanha. [Website](https://web.ece.ucsb.edu/~hespanha/linearsystems/)
-(Fairly advanced) “Stochastic Models, Information Theory, and Lie Groups, Volume 1: Classical Results and Geometric Methods” by Gregory Chirikjian. [PDF](http://entsphere.com/pub/pdf/2000%20Chirikjian,%20Stochastic%20Models,%20Information%20Theory,%20and%20Lie%20Groups.pdf)
+1. “Pattern Recognition and Machine Learning” by Christopher Bishop. [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+2. “An Invitation to 3-D Vision: From Images to Models“ by Yi Ma, Stefano Soatto, Jana Kosecka, Shankar Sastry. [PDF](https://www.eecis.udel.edu/~cer/arv/readings/old_mkss.pdf)
+3. “Reinforcement Learning and Optimal Control” by Dmitri Bertsekas. [Material](https://web.mit.edu/dimitrib/www/RLbook.html)
+4. “Feedback Systems: An Introduction for Scientists and Engineers” by Karl Johan Astrom and Richard M. Murray, [PDF](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_28Sep12.pdf)
+5. (Advanced) “Linear Systems Theory” by João P. Hespanha. [Website](https://web.ece.ucsb.edu/~hespanha/linearsystems/)
+6. (Fairly advanced) “Stochastic Models, Information Theory, and Lie Groups, Volume 1: Classical Results and Geometric Methods” by Gregory Chirikjian. [PDF](http://entsphere.com/pub/pdf/2000%20Chirikjian,%20Stochastic%20Models,%20Information%20Theory,%20and%20Lie%20Groups.pdf)
 
 # Computational Resources
 Almost all coursework can be done using your laptop. We will use PyTorch [https://pytorch.org](https://pytorch.org) and MuJoCo [http://www.mujoco.org](http://www.mujoco.org) in the later parts of the course for reinforcement learning. If you want additional computational resources, you can take a look at the following.
