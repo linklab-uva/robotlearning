@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-We will use Piazza for this course. Link TBA.
 
 # Prerequisites Required
 - Proficiency in programming (<list CS courses here>). All assignments will be based on Python but if you have used a similar language like MATLAB before, you should be able to pick up Python easily. Recitation sessions will provide preparatory material.
@@ -12,7 +11,7 @@ We will use Piazza for this course. Link TBA.
 - Machine Learning or Data Analysis (<list preq course here>)
 - (Soft recommendation) Optimization (<list preq course here>)
 
-## Evaluation
+# Evaluation
 - 4 homeworks (60% in total)
 - Mid-term exam (20%)
 - Final project (teams of 3) (15%)
