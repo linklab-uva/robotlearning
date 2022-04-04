@@ -1,5 +1,3 @@
-
-{% include image.html url="/_images/robotlearning.jpeg" width=auto align="center" %}
 ---
 layout: home
 ---
