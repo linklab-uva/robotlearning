@@ -20,3 +20,35 @@ Topics: Markov Decision Processes, Value and Policy Iteration, Bellman equation,
 
 ### Module 4: Miscellaneous topics (2 lecture)
 - Meta-Learning, Sim2Real
+
+
+## Tentative schedule
+
+| Lecture      | Topic | Notes    |
+| :---        |    :----:   |          ---: |
+| 1     | Introduction      | HW 0 out (not graded)  |
+| 2  |  Background on probability |  HW 1 out |
+| 3   |  Markov Chains |   |
+| 4   | Hidden Markov Models I   |   |
+| 5   | Hidden Markov Models II  |   |
+| 6   | Kalman Filter  | HW 1 due  |
+| 7   | Extended Kalman Filter  |     |
+| 8   | Unscented Kalman Filter  | HW 2 out  |
+| 9   | Particle Filter  |   |
+| 10   | Rigid Transforms, Quaternions  |   |
+| 11   | Occupancy Grids  |  Summary on Lec 4-10 |
+| 12   | Dynamic Programming, Bellman Equation  |  HW 2 Due |
+| 13   | Value Iteration  |   |
+| 14   | Policy iteration  |  HW 3 out |
+| 15   | Background on Linear Control, LQR  |   |
+| 16   | LQG, Iterated LQR  |   |
+| 17   | Midterm  |   |
+| 18   | Sampling Based Motion Planning  | HW 3 Due  |
+| 19   | Optimization, Imitation Learning  |   |
+| 20   | Policy Gradient  |   |
+| 21   | Tabular Q-Learning  |   |
+| 22   | Continuous Q-Learning  | HW 4 out  |
+| 23   | Inverse RL, Model-based RL  |   |
+| 24   | Offline RL  |   |
+| 25   |  Meta-Learning | HW 4 due   |
+| 26   |  Sim2Real | Project due  |
