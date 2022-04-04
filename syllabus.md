@@ -21,6 +21,7 @@ Topics: Markov Decision Processes, Value and Policy Iteration, Bellman equation,
 ### Module 4: Miscellaneous topics (2 lecture)
 - Meta-Learning, Sim2Real
 
+PDF copy of the syllabus [PDF](/docs/Learning_in_Robotics_Fall22_Behl.pdf){:target="_blank"}
 
 ## Tentative schedule
 
