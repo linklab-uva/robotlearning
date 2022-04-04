@@ -1,9 +1,8 @@
-
-{% include image.html url="/_images/robotlearning.jpeg" width=175 align="right" %}
-
 ---
 layout: home
 ---
+
+{% include image.html url="/_images/robotlearning.jpeg" width=auto align="right" %}
 
 ## Prerequisites Required
 - Proficiency in programming (<list CS courses here>). All assignments will be based on Python but if you have used a similar language like MATLAB before, you should be able to pick up Python easily. Recitation sessions will provide preparatory material.
