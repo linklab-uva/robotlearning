@@ -32,8 +32,8 @@ Paid: You can also sign up for Google Colab Pro [https://colab.research.google.c
 - We require you to use LaTeX for your reports in this course, as LaTeX is a skill you should learn if you haven’t already!
 - We will provide you with the templates to structure your submissions.
 - Additionally,
--- Official website of latex: [http://www.latex-project.org/](http://www.latex-project.org/){:target="_blank"}
--- TEX editor for windows: [WinEdt](http://winedt.com/){:target="_blank"}, [LEd](http://www.latexeditor.org/){:target="_blank"}, [TexMaker](https://www.xm1math.net/texmaker/){:target="_blank"}
--- TEX editor for MacOS: [TeXPad](https://www.texpadapp.com/){:target="_blank"}, [Latexian](http://tacosw.com/latexian/){:target="_blank"}
--- Online TEX editor: [Overleaf](https://www.overleaf.com/){:target="_blank"}, [LaTeX Base](https://latexbase.com/){:target="_blank"}
--- Please share the best TEX editor or integrated solutions in your mind to the class via Pizza.
+  - Official website of latex: [http://www.latex-project.org/](http://www.latex-project.org/){:target="_blank"}
+  - TEX editor for windows: [WinEdt](http://winedt.com/){:target="_blank"}, [LEd](http://www.latexeditor.org/){:target="_blank"}, [TexMaker](https://www.xm1math.net/texmaker/){:target="_blank"}
+  - TEX editor for MacOS: [TeXPad](https://www.texpadapp.com/){:target="_blank"}, [Latexian](http://tacosw.com/latexian/){:target="_blank"}
+  - Online TEX editor: [Overleaf](https://www.overleaf.com/){:target="_blank"}, [LaTeX Base](https://latexbase.com/){:target="_blank"}
+  - Please share the best TEX editor or integrated solutions in your mind to the class via Pizza.
