@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule/
+title: Syllabus
+permalink: /syllabus/
 ---
 
 ## Course Syllabus
