@@ -26,7 +26,7 @@ PDF copy of the syllabus [PDF](/static_files/docs/Learning_in_Robotics_Fall22_Be
 ## Tentative schedule
 
 | Lecture      | Topic | Notes    |
-| :---        |    :-------:   |         :------: |
+| :---        |    :-------   |         :------ |
 | 1     | Introduction      | HW 0 out (not graded)  |
 | 2  |  Background on probability |  HW 1 out |
 | 3   |  Markov Chains |   |
