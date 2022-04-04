@@ -27,7 +27,7 @@ Almost all coursework can be done using your laptop. We will use PyTorch [https:
 Free: Google Colab [https://colab.research.google.com](https://colab.research.google.com){:target="_blank"} is a very good platform with a good GPU that you can use for most small-scale experiments. Gradient [https://gradient.paperspace.com](https://gradient.paperspace.com){:target="_blank"} is another free tool with more generous compute resources (6-hour timeouts and persistent sessions). If you haven’t used it already Google Cloud Project gives $300 of starter credits [https://cloud.google.com/free](https://cloud.google.com/free){:target="_blank"}.
 Paid: You can also sign up for Google Colab Pro [https://colab.research.google.com/signup](https://colab.research.google.com/signup){:target="_blank"} for a very reasonable $10/month to get access to faster GPUs and less restrictive preemption of jobs.
 
-# Use _Latex_!
+# Use _Latex_ !
 
 - We require you to use LaTeX for your reports in this course, as LaTeX is a skill you should learn if you haven’t already!
 - We will provide you with the templates to structure your submissions.
