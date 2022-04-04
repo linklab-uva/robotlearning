@@ -4,7 +4,7 @@ layout: home
 
 ![Robot Learning](/_images/robotlearning.jpeg)
 
-**Time**: TuTh 2:00pm - 3:15pm	Olsson Hall 120
+### **Time**: TuTh 2:00pm - 3:15pm	Olsson Hall 120
 
 
 ## Prerequisites Required
