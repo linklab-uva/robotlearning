@@ -1,3 +1,9 @@
+---
+layout: schedule
+title: Schedule
+permalink: /schedule/
+---
+
 ## Course Syllabus
 
 ### Module 1: State Estimation (11 lectures)
@@ -14,9 +20,3 @@ Topics: Imitation Learning, Policy gradient, Q-Learning, Inverse RL, Model-based
 
 ### Module 4: Miscellaneous topics (2 lecture)
 Meta-Learning, Sim2Real
-
----
-layout: schedule
-title: Schedule
-permalink: /schedule/
----
