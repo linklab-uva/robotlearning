@@ -4,6 +4,10 @@ layout: home
 
 ![Robot Learning](/_images/robotlearning.jpeg)
 
+## **Time**: 
+TuTh 2:00pm - 3:15pm	Olsson Hall 120
+
+
 ## Prerequisites Required
 - Proficiency in programming. All assignments will be based on Python but if you have used a similar language like MATLAB before, you should be able to pick up Python easily. Recitation sessions will provide preparatory material.
 - Probability
