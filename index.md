@@ -5,12 +5,12 @@ layout: home
 {% include image.html url="/_images/robotlearning.jpeg" width=551 align="left" %}
 
 ## Prerequisites Required
-- Proficiency in programming (<list CS courses here>). All assignments will be based on Python but if you have used a similar language like MATLAB before, you should be able to pick up Python easily. Recitation sessions will provide preparatory material.
-- Probability ( (<list preq course here>))
-- Linear Algebra (<list preq course here>)
+- Proficiency in programming. All assignments will be based on Python but if you have used a similar language like MATLAB before, you should be able to pick up Python easily. Recitation sessions will provide preparatory material.
+- Probability
+- Linear Algebra
 
 ## Recommended
-- Machine Learning or Data Analysis (<list preq course here>)
+- Machine Learning or Data Analysis (CS 4774 or CS 6316 or Equivalent)
 - (Soft recommendation) Optimization (<list preq course here>)
 
 ## Evaluation
