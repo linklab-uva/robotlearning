@@ -28,3 +28,6 @@ links:
 <!-- Other additional contents using markdown -->
 **Suggested Readings:**
 - [Course Syllabus](https://linklab-uva.github.io/robotlearning/syllabus/)
+- Thrun Chapter 1
+- Barfoot Chapter 1
+- Computing machinery and intelligence, Turing (2009)
