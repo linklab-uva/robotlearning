@@ -1,20 +1,17 @@
 ---
-type: lecture
-date: 20xx-xx-xxTx:xx:xx+4:30
-title: Introduction
+type: raw_event
+name: Lecture 1
+date: 2022-08-23T08:00:00+4:30
+description: Course Introduciton
 
 # optional
-# please use /static_files/notes directory to store notes
-# thumbnail: /static_files/path/to/image.jpg
+# if you want to hide time in Schedule, set this to true
+hide_time: false
 
 # optional
-tldr: "Course Introduciton"
+# set it to true if you don't want this event appear to in the announcements section
+hide_from_announcments: true
 
-# optional
-# set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: false
-
-# optional
 links:
     - url: /static_files/presentations/01.pdf
       name: notes
@@ -25,6 +22,8 @@ links:
     #- url: https://example.com
     #  name: other
 ---
+<!-- you can create custom content using markdown. this section will be placed in "Course Materials (in schedule section)" -->
+
 <!-- Other additional contents using markdown -->
 **Suggested Readings:**
 - [Course Syllabus](https://linklab-uva.github.io/robotlearning/syllabus/)
