@@ -8,7 +8,7 @@ title: Introduction
 thumbnail: /static_files/presentations/lec01.png
 
 # optional
-tldr: "Course Introduciton"
+tldr: "Course Introduciton and Logistics, "
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
