@@ -5,7 +5,7 @@ title: Introduction
 
 # optional
 # please use /static_files/notes directory to store notes
-# thumbnail: /static_files/path/to/image.jpg
+thumbnail: /static_files/presentations/lec01.png
 
 # optional
 tldr: "Course Introduciton"
