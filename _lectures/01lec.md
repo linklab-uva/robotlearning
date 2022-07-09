@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 20xx-xx-xxTx:xx:xx+4:30
+date: 2022-08-23Tx:xx:xx+4:30
 title: Introduction
 
 # optional
