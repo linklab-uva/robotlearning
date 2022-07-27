@@ -5,7 +5,7 @@ title: Lec01: Introduction
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/presentations/lec01.png
+thumbnail: /static_files/thumbnails/lec01.png
 
 # optional
 tldr: "Course Introduciton and Logistics, "
