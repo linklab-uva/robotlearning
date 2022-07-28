@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-08-23Tx:xx:xx+4:30
+date: 2022-08-xxTx:xx:xx+4:30
 title: Rec01: Recitation 1: Python Basics - Collab.
 
 # optional
