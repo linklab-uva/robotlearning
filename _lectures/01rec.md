@@ -5,7 +5,7 @@ title: Rec01: Recitation 1: Python Basics - Collab.
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/presentations/lec01.png
+thumbnail: /static_files/thumbnails/python.png
 
 # optional
 tldr: "Jupyter Notebook for Python Basics "
