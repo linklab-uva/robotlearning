@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-08-23Tx:xx:xx+4:30
-title: Python Basics Tutorial
+title: Lec01: Introduction
 
 # optional
 # please use /static_files/notes directory to store notes
