@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-08-23Tx:xx:xx+4:30
-title: Introduction
+title: Lecture 1 - Introduction
 
 # optional
 # please use /static_files/notes directory to store notes

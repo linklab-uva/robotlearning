@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2022-09-23Tx:xx:xx+4:30
-title: Python
+date: 2022-08-23Tx:xx:xx+4:30
+title: Recitation 1 - Python Basics
 
 # optional
 # please use /static_files/notes directory to store notes
@@ -12,7 +12,7 @@ tldr: "Jupyter Notebook for Python Basics "
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 
 # optional
 links:
