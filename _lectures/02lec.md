@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2022-08-xxTx:xx:xx+4:30
-title: Rec01: Recitation 1: Python Basics - Collab.
+date: 2022-08-23Tx:xx:xx+4:30
+title: Lec02: Recitation 1 -  Python Basics - Collab.
 
 # optional
 # please use /static_files/notes directory to store notes
