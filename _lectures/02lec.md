@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2022-08-23Tx:xx:xx+4:30
-title: Lec01: Introduction
+date: 2022-09-23Tx:xx:xx+4:30
+title: Python
 
 # optional
 # please use /static_files/notes directory to store notes
