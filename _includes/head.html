@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
 <head>
   {% if site.google_analytics %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -11,16 +14,17 @@
   </script>
   {% endif %}
 
-
+  
+  
 
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %} {{ page.title }} - {{ site.course_name }} / {{ site.course_semester }} {% else %}{{ site.course_name }} / {{ site.course_semester }} - {{ site.schoolname }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.title }} - {{ site.course_name }} / {{ site.course_semester }}{% endif %}">
-  
+  <title>Learning in Robotics - UVA</title>
+  <meta name="description" content="Graduate Course in Robotics at the University of Virginia.">
+  <meta name=”author” content="Madhur Behl">
   <link rel="stylesheet" href="{{ "/_css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.course_name }} / {{ site.course_semester }} - {{ site.schoolname }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />

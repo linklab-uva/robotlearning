@@ -30,10 +30,12 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    <p>{{ins.name}}</p>
+                    <p><a href="{{ ins.webpage }}">Website</a></p>
+                    <p>{{ins.name}}</p>
                     {% else %}
                     <p>{{ins.name}}</p>
-                    <p>{{ins.email}}</p>
+                    <p>{{ins.name}}</p>
                     {% endif %}
                 </div>
                 {% endfor %}
