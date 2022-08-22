@@ -22,3 +22,5 @@ due_event:
     description: 'Homework 0 Solutions Released '
 ---
 <!-- Other additional contents using markdown -->
+
+Autograder has been setup on Gradescope for the coding problems
