@@ -40,4 +40,4 @@ Paid: You can also sign up for Google Colab Pro [https://colab.research.google.c
 
 # Issac Asimov
 
-A PDF copy of the book I-Robot (1950) - which contains the short story _Liar_ (originally published in 1941), within which the term _Robot_ was coined. 
+A PDF copy of the book I-Robot (1950) - which contains the short story _Liar_ (originally published in 1941), within which the term _Robot_ was coined. [PDF](/docs/asimov.pdf){:target="_blank"}
