@@ -10,7 +10,7 @@ pdf: /static_files/assignments/hw0.pdf
 # solutions: /static_files/assignments/assign_01_solutions.pdf
 
 # optional
-# attachment: /static_files/assignments/assign_01_attachment.zip
+attachment: /static_files/assignments/hw0_solution.py
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
