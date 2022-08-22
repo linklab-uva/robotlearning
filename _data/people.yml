@@ -1,10 +1,12 @@
 instructors:
   - name: Madhur Behl
     profile_pic: /_images/pp/madhur.jpeg
+    email: madhur.behl@virginia.edu
     webpage: https://www.madhurbehl.com/
 
 
 teaching_assistants:
 - name: Trent Weiss
   profile_pic: /_images/pp/trent.jpeg
+  email: ttw2xk@virginia.edu
   webpage: ttw2xk@virginia.edu
