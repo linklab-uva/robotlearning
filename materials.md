@@ -37,3 +37,7 @@ Paid: You can also sign up for Google Colab Pro [https://colab.research.google.c
   - TEX editor for MacOS: [TeXPad](https://www.texpadapp.com/){:target="_blank"}, [Latexian](http://tacosw.com/latexian/){:target="_blank"}
   - Online TEX editor: [Overleaf](https://www.overleaf.com/){:target="_blank"}, [LaTeX Base](https://latexbase.com/){:target="_blank"}
   - Please share the best TEX editor or integrated solutions in your mind to the class via Pizza.
+
+# Issac Asimov
+
+A PDF copy of the book I-Robot (1950) - which contains the short story _Liar_ (originally published in 1941), within which the term _Robot_ was coined. 
