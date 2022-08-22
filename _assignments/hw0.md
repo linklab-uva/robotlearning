@@ -4,7 +4,7 @@ date: 2022-08-23T2:00:00+0:00
 title: 'Homework 0 (not graded)'
 
 # optional 
-# pdf: /static_files/assignments/assign_01.pdf
+pdf: /static_files/assignments/hw0.pdf
 
 # optional
 # solutions: /static_files/assignments/assign_01_solutions.pdf
