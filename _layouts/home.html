@@ -31,11 +31,11 @@ layout: default
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
                     <p>{{ins.name}}</p>
+                    <p>{{ins.email}}</p>
                     <p><a href="{{ ins.webpage }}">Website</a></p>
-                    <p>{{ins.name}}</p>
                     {% else %}
                     <p>{{ins.name}}</p>
-                    <p>{{ins.name}}</p>
+                    <p>{{ins.email}}</p>
                     {% endif %}
                 </div>
                 {% endfor %}
