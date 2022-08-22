@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 ## Course Syllabus
 
-PDF copy of the syllabus [PDF](/docs/Learning_in_Robotics_Fall22_Behl.pdf){:target="_blank"}
+PDF copy of the syllabus [PDF](/docs/syllabus.pdf){:target="_blank"}
 
 ### Module 1: State Estimation (11 lectures)
 - Background on probability

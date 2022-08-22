@@ -6,7 +6,7 @@ permalink: /assignments/
 You can download the assignments here. Also check out each assignment page for any additional info.
 
 - We require you to use _LaTeX_ for your homeworks and reports in this course.
-- You can use the following template to structure your submissions [Overleaf Template](https://www.overleaf.com/read/vndsfhbmktmx).
+- You can use the following template to structure your submissions [Overleaf Template](https://www.overleaf.com/read/vndsfhbmktmx){:target="_blank"}.
 - If you are not familiar with Latex, useful links and resources have been included under the [Materials](https://linklab-uva.github.io/robotlearning/materials/) page.
 
 ### Late Submission Policy
