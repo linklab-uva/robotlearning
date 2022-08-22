@@ -31,9 +31,8 @@ layout: default
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
                     <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
-                    {% elseif %}
-                    <p>{{ins.name}}</p>
                     {% else %}
+                    <p>{{ins.name}}</p>
                     <p>{{ins.email}}</p>
                     {% endif %}
                 </div>
@@ -49,11 +48,11 @@ layout: default
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
                     <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
-                    {% elseif %}
-                    <p>{{ta.name}}</p>
                     {% else %}
+                    <p>{{ta.name}}</p>
                     <p>{{ta.email}}</p>
                     {% endif %}
+
                 </div>
                 {% endfor %}
             </div>
