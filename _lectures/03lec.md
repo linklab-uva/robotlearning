@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-08-30Tx:xx:xx+4:30
+date: 2022-08-25Tx:xx:xx+4:30
 title: Lecture 2 - Probability Review
 
 # optional
