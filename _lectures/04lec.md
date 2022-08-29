@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2022-08-23Tx:xx:xx+4:30
-title: Lecture 1 - Introduction
+date: 2022-08-30Tx:xx:xx+4:30
+title: Lecture 3 - Markov Models
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/lec01.png
+thumbnail: /static_files/thumbnails/lec03.png
 
 # optional
-tldr: "Course Introduciton and Logistics, "
+tldr: "2.3, and 2.4 from Chapter 2 notes "
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -16,8 +16,8 @@ hide_from_announcments: true
 
 # optional
 links:
-    - url: /static_files/presentations/01.pdf
-      name: notes
+    - url: /static_files/presentations/02.pdf
+      name: Chapter 2 notes
     #- url: /static_files/presentations/code.zip
     #  name: codes
     #- url: https://google.com
@@ -26,8 +26,4 @@ links:
     #  name: other
 ---
 <!-- Other additional contents using markdown -->
-**Suggested Readings:**
-- [Course Syllabus](https://linklab-uva.github.io/robotlearning/syllabus/)
-- Thrun Chapter 1
-- Barfoot Chapter 1
-- Computing machinery and intelligence, Turing (2009)
+
