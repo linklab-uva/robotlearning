@@ -19,7 +19,7 @@ hide_from_announcments: false
 due_event: 
     type: due
     date: 2022-09-20T23:59:00+0:00
-    description: 'Homework 1 Due on Gradescop '
+    description: 'Homework 1 Due on Gradescope'
 ---
 <!-- Other additional contents using markdown -->
 
