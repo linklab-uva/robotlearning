@@ -19,7 +19,7 @@ links:
     - url: /static_files/presentations/03.pdf
       name: Chapter 3 notes
     - url: /static_files/presentations/l08notes.pdf
-    #  name: Class notes
+      name: Class notes
     #- url: https://google.com
     #  name: slides
     #- url: https://example.com
