@@ -5,7 +5,7 @@ title: Lecture 9 - Markov Decision Process + Kalman Filter
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/lec08.png
+thumbnail: /static_files/thumbnails/lec09.jpeg
 
 # optional
 tldr: "3.4 and 3.5 from notes"
