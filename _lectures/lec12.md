@@ -18,8 +18,8 @@ hide_from_announcments: true
 links:
     #- url: /static_files/presentations/03.pdf
     #  name: Chapter 3 notes
-    # - url: /static_files/presentations/l10notes.pdf
-    #  name: Class notes
+    - url: /static_files/presentations/l12notes.pdf
+      name: Class notes
     #- url: https://google.com
     #  name: slides
     #- url: https://example.com
