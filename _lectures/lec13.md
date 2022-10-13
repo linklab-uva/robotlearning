@@ -5,7 +5,7 @@ title: Lecture 13 - Rigid Body Transformations
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/lec12.svg
+thumbnail: /static_files/thumbnails/lec13.jpeg
 
 # optional
 tldr: "4.1 from notes"
