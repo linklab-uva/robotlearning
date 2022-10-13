@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2022-10-11Tx:xx:xx+4:30
-title: Lecture 13 - Rigid Body Transformations
+date: 2022-10-13Tx:xx:xx+4:30
+title: Lecture 14 - 3D Rotations, Axis-Angle, and Quaternions
 
 # optional
 # please use /static_files/notes directory to store notes
