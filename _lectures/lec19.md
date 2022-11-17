@@ -5,7 +5,7 @@ title: Lecture 19 - Infite Horizon DP, and Bellman Equation
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/lec18.jpeg
+thumbnail: /static_files/thumbnails/lec19.png
 
 # optional
 tldr: "5.3 and 5.4 from notes"
@@ -26,4 +26,3 @@ links:
     #  name: other
 ---
 <!-- Other additional contents using markdown -->
-
