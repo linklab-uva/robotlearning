@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2022-11-10T2:00:00+0:00
-title: 'Homework 2'
+title: 'Homework 3'
 
 # optional 
 # pdf: /static_files/assignments/hw0.pdf
@@ -19,7 +19,7 @@ hide_from_announcments: false
 due_event: 
     type: due
     date: 2022-12-01T23:59:00+0:00
-    description: 'Homework 2 Due on Gradescope'
+    description: 'Homework 3 Due on Gradescope'
 ---
 <!-- Other additional contents using markdown -->
 
