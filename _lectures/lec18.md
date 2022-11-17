@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-10-31Tx:xx:xx+4:30
+date: 2022-11-01Tx:xx:xx+4:30
 title: Lecture 18 - Stochastic Dynamic Programming 
 
 # optional
