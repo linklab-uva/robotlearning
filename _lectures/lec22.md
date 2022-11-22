@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2022-10-31Tx:xx:xx+4:30
-title: Lecture 18 - Stochastic Dynamic Programming 
+date: 2022-11-22Tx:xx:xx+4:30
+title: Lecture 22 - Linear Quadratic Regulator
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/l18.jpeg
+thumbnail: /static_files/thumbnails/lec22.gif
 
 # optional
-tldr: "5.2 and 5.3 from notes"
+tldr: "6.1 + 6.2 from notes"
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -16,8 +16,8 @@ hide_from_announcments: true
 
 # optional
 links:
-    - url: /static_files/presentations/05.pdf
-      name: Chapter 5 notes
+    - url: /static_files/presentations/06.pdf
+      name: Chapter 6 notes
     # - url: /static_files/presentations/l15notes.pdf
     #  name: Class notes
     #- url: https://google.com
@@ -26,4 +26,3 @@ links:
     #  name: other
 ---
 <!-- Other additional contents using markdown -->
-
