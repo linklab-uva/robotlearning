@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2022-11-17Tx:xx:xx+4:30
-title: Lecture 21 - Chapter 5 Recap + LQR Introduction
+date: 2022-11-29Tx:xx:xx+4:30
+title: Lecture 23 - Continuous Time LQR, Stochastic LQR
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /static_files/thumbnails/lec21.png
 
 # optional
-tldr: "6.1 from notes"
+tldr: "6.2.2, 6.2.3, and 6.3 from notes"
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
