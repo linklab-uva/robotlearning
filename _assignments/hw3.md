@@ -18,7 +18,7 @@ hide_from_announcments: false
 
 due_event: 
     type: due
-    date: 2022-12-01T23:59:00+0:00
+    date: 2022-12-08T23:59:00+0:00
     description: 'Homework 3 Due on Gradescope'
 ---
 <!-- Other additional contents using markdown -->
