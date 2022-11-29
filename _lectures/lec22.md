@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-11-22Tx:xx:xx+4:30
-title: Lecture 22 - Linear Quadratic Regulator
+title: Lecture 22 - Linear Quadratic Regulator + HJB
 
 # optional
 # please use /static_files/notes directory to store notes
