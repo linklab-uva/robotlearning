@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2022-08-23T2:00:00+0:00
+date: 2024-01-18T2:00:00+0:00
 title: 'Homework 0 (not graded)'
 
 # optional 
@@ -18,7 +18,7 @@ hide_from_announcments: false
 
 due_event: 
     type: due
-    date: 2022-08-30T23:59:00+0:00
+    date: 2024-01-25T23:59:00+0:00
     description: 'Homework 0 Solutions Released '
 ---
 <!-- Other additional contents using markdown -->
