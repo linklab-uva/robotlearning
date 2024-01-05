@@ -17,10 +17,9 @@ layout: home
 - (Soft recommendation) Optimization (<list preq course here>)
 
 ## Evaluation
-- 4 homeworks (60% in total)
-- Mid-term exam (20%)
-- Final project (teams of 3) (15%)
-- You will write a summary (it can be as elaborate as you like but at least 2 pages) that demonstrates your understanding of the material in your own words for each of the modules in the course. These summaries will together make up for 5% of your final grade. There is no partial credit here, depending on the quality of your summary, you either get all the 5% or none.
+- 4 homeworks - Equally weighted
+- No mid-term exam. No final exam.
+- You will write a summary (it can be as elaborate as you like but at least 2 pages) that demonstrates your understanding of the material in your own words for each of the modules in the course. These summaries will together make up for 10% of your final grade. There is no partial credit here, depending on the quality of your summary, you either get all the 10% or none.
 
 ## Academic Integrity
 You are encouraged to collaborate with your peers for solving problems in the homework, reading books and curating other instructional materials to improve your understanding of the concepts taught in the class. While doing so, you might generate code/pseudo-code/solutions for the homeworks/project. When you begin to write your submission you should keep aside all these materials (including your friends) and do things “from scratch”. In short, everything you write/code and submit should be your own work done independently.
