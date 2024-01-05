@@ -12,7 +12,7 @@ layout: home
 - Probability
 - Linear Algebra
 
-__Try Homework 0. It is not due and no submission is required. If you feel at ease with these questions, then you meet all the math prerequesites. If you feel that with a little refreher you would be abel to solve the questions then that is where we will begin the course from. If you feel completely lost, then it is likley that you do not meet the prerequesties.__
+__Consider attempting Homework 0. This homework is optional and doesn't require submission. If you find the questions manageable, you possess the necessary mathematical prerequisites for the course. If you think a brief review would enable you to tackle these questions, that will be our starting point for the course. However, if these questions are entirely perplexing to you, it's possible that you haven't met the prerequisite requirements.__
 
 ## Recommended
 - Machine Learning or Data Analysis (CS 4774 or CS 6316 or Equivalent)
