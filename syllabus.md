@@ -51,5 +51,5 @@ PDF copy of the syllabus [PDF](/docs/syllabus.pdf){:target="_blank"}
 | 22   | Continuous Q-Learning  | HW 4 out  |
 | 23   | Inverse RL, Model-based RL  |   |
 | 24   | Offline RL  |   |
-| 25   |  Meta-Learning | HW 4 due   |
-| 26   |  Sim2Real | Project due  |
+| 25   |  Deep RL | HW 4 due   |
+| 26   |  Closing topics |  |
