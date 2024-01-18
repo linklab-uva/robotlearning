@@ -4,7 +4,7 @@ layout: home
 
 ![Robot Learning](/_images/robotlearning.jpeg)
 
-### **Time**: TuTh 2:00pm - 3:15pm	Rice Hall 340
+### **Time**: TuTh 3:30pm - 4:45pm	Rice Hall 340
 
 
 ## Prerequisites Required
