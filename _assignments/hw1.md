@@ -14,7 +14,7 @@ title: 'Homework 1'
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
-hide_from_announcments: true
+hide_from_announcments: false
 
 due_event: 
     type: due
