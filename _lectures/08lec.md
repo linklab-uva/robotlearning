@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-15Tx:xx:xx+4:30
+date: 2024-02-13Tx:xx:xx+4:30
 title: Lecture 8 - Kalman Gain and Linear Dynamical Systems
 
 # optional

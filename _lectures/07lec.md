@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2022-09-13Tx:xx:xx+4:30
+date: 2024-02-08Tx:xx:xx+4:30
 title: Lecture 7 - Linear State Estimation
 
 # optional
