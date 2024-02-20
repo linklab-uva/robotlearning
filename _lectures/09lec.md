@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2024-02-15Tx:xx:xx+4:30
-title: Lecture 9 - Markov Decision Process + Kalman Filter
+title: Lecture 9 - Extended Kalman Filter
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/lec09.jpeg
+thumbnail: /static_files/thumbnails/lec10.png
 
 # optional
-tldr: "3.4 and 3.5 from notes"
+tldr: "3.6 from notes"
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -18,7 +18,7 @@ hide_from_announcments: true
 links:
     - url: /static_files/presentations/03.pdf
       name: Chapter 3 notes
-    - url: /static_files/presentations/l09notes.pdf
+    - url: /static_files/presentations/l10notes.pdf
       name: Class notes
     #- url: https://google.com
     #  name: slides

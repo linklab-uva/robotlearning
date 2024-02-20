@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2022-09-29Tx:xx:xx+4:30
-title: Lecture 11 - Unscented Kalman Filter
+date: 2024-02-20Tx:xx:xx+4:30
+title: Lecture 10 - Unscented Kalman Filter
 
 # optional
 # please use /static_files/notes directory to store notes
