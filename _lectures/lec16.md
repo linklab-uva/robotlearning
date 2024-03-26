@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2024-03-26Tx:xx:xx+4:30
-title: Lecture 18 - Value Iteration 
+date: 2024-03-19Tx:xx:xx+4:30
+title: Lecture 16 - Stochastic Dynamic Programming 
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/lec20.png
+thumbnail: /static_files/thumbnails/l18.jpeg
 
 # optional
-tldr: "5.4.2 and 5.5 from notes"
+tldr: "5.2 and 5.3 from notes"
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -26,3 +26,4 @@ links:
     #  name: other
 ---
 <!-- Other additional contents using markdown -->
+

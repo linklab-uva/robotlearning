@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-03-21Tx:xx:xx+4:30
-title: Lecture 19 - Infite Horizon DP, and Bellman Equation 
+title: Lecture 17 - Infite Horizon DP, and Bellman Equation 
 
 # optional
 # please use /static_files/notes directory to store notes
