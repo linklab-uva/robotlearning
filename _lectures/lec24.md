@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2024-04-11Tx:xx:xx+4:30
-title: Lecture 23 - Iterative LQR, MPC, and Imitation Learning
+date: 2024-04-16Tx:xx:xx+4:30
+title: Lecture 24 - BC-Stochastic Control and Chapter 8 - Policy Gradients
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/thumbnails/lec24.png
+thumbnail: /static_files/thumbnails/pg.png
 
 # optional
-tldr: "Chapter 7: 7.1 and 7.2"
+tldr: "Chapter 8: 7.3 and Intro to Chapter 8"
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -16,8 +16,8 @@ hide_from_announcments: true
 
 # optional
 links:
-    - url: /static_files/presentations/07.pdf
-      name: Chapter 7 notes
+    - url: /static_files/presentations/08.pdf
+      name: Chapter 8 notes
     # - url: /static_files/presentations/l15notes.pdf
     #  name: Class notes
     #- url: https://google.com
