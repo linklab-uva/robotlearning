@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2024-04-25Tx:xx:xx+4:30
-title: Lecture 27 - Chapter 9 - Q-Learning
+title: Lecture 28 - Chapter 9 - Delayed Targets; Double Q-Learning + Closing remarks
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /static_files/thumbnails/lec27.png
 
 # optional
-tldr: "Chapter 9: 9.1 Tabular Q-Learning and 9.2 - Deep Q Networks"
+tldr: "Chapter 9: 9.2.1"
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
