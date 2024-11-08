@@ -14,7 +14,7 @@ title: 'Homework 2'
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
-hide_from_announcments: false
+hide_from_announcments: true
 
 due_event: 
     type: due
@@ -22,6 +22,6 @@ due_event:
     description: 'Homework 2 Due on Gradescope'
 ---
 <!-- Other additional contents using markdown -->
-
+   
 Homework 2 PDF and starter code (.zip) has been posted on Canvas >> Files >> Homeworks >> hw2.
 The submission PDF and code should be uploaded to Gradescope.
