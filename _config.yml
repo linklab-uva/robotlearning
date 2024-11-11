@@ -1,7 +1,7 @@
 # Site settings
 course_name: Learning in Robotics
 course_description: "We will cover the mathematical foundations of robotics in this graduate-level course. We will rigorously explore the three pillars of robotics: perception, planning, and control. We’ll commence with theoretical discussions on state estimation methods, including the Kalman Filter, EKF, UKF, and Particle Filters, progress to mapping and visual odometry, and then navigate the intricacies of dynamic programming, control, and planning methods such as LQR and MDPs. Our journey will culminate in reinforcement learning models for robotics, like policy gradients and Q-learning, and specialized topics like foundation models for robotics. To ensure practical application, students will undertake programming assignments addressing real-world robotics challenges. While primarily for graduate students, undergraduates may enroll with the instructor’s approval."
-course_semester: "Spring 2024"
+course_semester: "Spring 2025"
 
 baseurl: "/robotlearning" # the subpath of your site, e.g. /blog/
 url: "https://linklab-uva.github.io" # the base hostname & protocol for your site

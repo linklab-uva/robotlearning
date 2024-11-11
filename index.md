@@ -4,7 +4,7 @@ layout: home
 
 ![Robot Learning](/_images/robotlearning.jpeg)
 
-### **Time**: TuTh 3:30pm - 4:45pm	Rice Hall 340
+### **Time**: MoWe 3:30pm - 4:45pm	Rice Hall 340
 
 
 ## Prerequisites Required
@@ -16,7 +16,7 @@ __Consider attempting Homework 0. This homework is optional and doesn't require 
 
 ## Recommended
 - Machine Learning or Data Analysis (CS 4774 or CS 6316 or Equivalent)
-- (Soft recommendation) Optimization (<list preq course here>)
+- (Soft recommendation) Optimization 
 
 ## Evaluation
 - 4 homeworks - Equally weighted
