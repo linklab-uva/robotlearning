@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-01-30Tx:xx:xx+4:30
+date: 2025-01-27Tx:xx:xx+4:30
 title: Lecture 4 - HMM II
 
 # optional

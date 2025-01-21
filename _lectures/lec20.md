@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-02Tx:xx:xx+4:30
+date: 2025-03-31Tx:xx:xx+4:30
 title: Lecture 20 - Linear Quadratic Regulator
 
 # optional

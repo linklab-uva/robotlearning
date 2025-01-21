@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-02-27Tx:xx:xx+4:30
+date: 2025-02-24Tx:xx:xx+4:30
 title: Lecture 12 - Rigid Body Transformations
 
 # optional

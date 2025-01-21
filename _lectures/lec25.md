@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-18Tx:xx:xx+4:30
+date: 2025-04-16Tx:xx:xx+4:30
 title: Lecture 25 - Chapter 8 - Cross-Entropy Methods, and Policy Gradients
 
 # optional

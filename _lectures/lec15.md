@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-14Tx:xx:xx+4:30
+date: 2025-03-05Tx:xx:xx+4:30
 title: Lecture 15 - Dynamic Programming
 
 # optional

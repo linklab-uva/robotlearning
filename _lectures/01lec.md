@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-01-18Tx:xx:xx+4:30
+date: 2025-01-13Tx:xx:xx+4:30
 title: Lecture 1 - Introduction
 
 # optional

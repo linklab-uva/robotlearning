@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-09Tx:xx:xx+4:30
+date: 2025-04-07Tx:xx:xx+4:30
 title: Lecture 22 - Stochastic LQR and Duality of LQR and Kalman Filters
 
 # optional

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-02-29Tx:xx:xx+4:30
+date: 2025-02-26Tx:xx:xx+4:30
 title: Lecture 13 - Quaternions & Occupancy Grid Mapping
 
 # optional

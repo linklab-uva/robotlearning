@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-16Tx:xx:xx+4:30
+date: 2025-04-14Tx:xx:xx+4:30
 title: Lecture 24 - BC-Stochastic Control and Chapter 8 - Policy Gradients
 
 # optional

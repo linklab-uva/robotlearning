@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-02-06Tx:xx:xx+4:30
+date: 2025-02-03Tx:xx:xx+4:30
 title: Lecture 6 - Baum-Welch & Intro to Kalman Filters
 
 # optional

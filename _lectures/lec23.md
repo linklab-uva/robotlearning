@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-11Tx:xx:xx+4:30
+date: 2025-04-09Tx:xx:xx+4:30
 title: Lecture 23 - Iterative LQR, MPC, and Imitation Learning
 
 # optional
