@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2024-01-18T2:00:00+0:00
+date: 2025-01-13T2:00:00+0:00
 title: 'Homework 0 (not graded)'
 
 # optional 

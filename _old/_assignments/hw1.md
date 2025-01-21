@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2022-09-06T2:00:00+0:00
+date: 2024-02-06T2:00:00+0:00
 title: 'Homework 1'
 
 # optional 
@@ -14,14 +14,14 @@ title: 'Homework 1'
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
-hide_from_announcments: false
+hide_from_announcments: true
 
 due_event: 
     type: due
-    date: 2022-09-20T23:59:00+0:00
+    date: 2024-02-20T23:59:00+0:00
     description: 'Homework 1 Due on Gradescope'
 ---
 <!-- Other additional contents using markdown -->
 
-Homework 1 PDF and starter code (.zip) has been posted on Collab >> Resources >> Homeworks >> hw1.
+Homework 1 PDF and starter code (.zip) has been posted on Canvas >> Files >> Homeworks >> hw1.
 The submission PDF and code should be uploaded to Gradescope.
