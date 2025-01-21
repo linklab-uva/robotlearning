@@ -18,7 +18,7 @@ hide_from_announcments: false
 
 due_event: 
     type: due
-    date: 2024-01-25T23:59:00+0:00
+    date: 2025-01-20T23:59:00+0:00
     description: 'Homework 0 Solutions Released '
 ---
 <!-- Other additional contents using markdown -->
