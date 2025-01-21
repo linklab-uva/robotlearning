@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-02-13Tx:xx:xx+4:30
+date: 2025-02-10Tx:xx:xx+4:30
 title: Lecture 8 - Markov Decision Process + Kalman Filter
 
 # optional

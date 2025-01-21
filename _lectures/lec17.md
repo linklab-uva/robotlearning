@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-21Tx:xx:xx+4:30
+date: 2025-03-19Tx:xx:xx+4:30
 title: Lecture 17 - Infite Horizon DP, and Bellman Equation 
 
 # optional

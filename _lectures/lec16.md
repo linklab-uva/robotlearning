@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-19Tx:xx:xx+4:30
+date: 2025-03-17Tx:xx:xx+4:30
 title: Lecture 16 - Stochastic Dynamic Programming 
 
 # optional

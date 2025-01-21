@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-04Tx:xx:xx+4:30
+date: 2025-04-02Tx:xx:xx+4:30
 title: Lecture 21 - Continuous Time Systems and HJB
 
 # optional

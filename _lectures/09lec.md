@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-02-15Tx:xx:xx+4:30
+date: 2025-02-12Tx:xx:xx+4:30
 title: Lecture 9 - Extended Kalman Filter
 
 # optional

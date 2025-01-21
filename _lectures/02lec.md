@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-01-23Tx:xx:xx+4:30
+date: 2025-01-15Tx:xx:xx+4:30
 title: Lecture 2 - Probability Review
 
 # optional

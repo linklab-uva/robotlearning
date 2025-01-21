@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-12Tx:xx:xx+4:30
+date: 2025-03-03Tx:xx:xx+4:30
 title: Lecture 14 - Occupancy Grid Mapping and Sesnor Models
 
 # optional

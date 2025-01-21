@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-26Tx:xx:xx+4:30
+date: 2025-03-24Tx:xx:xx+4:30
 title: Lecture 18 - Value Iteration 
 
 # optional

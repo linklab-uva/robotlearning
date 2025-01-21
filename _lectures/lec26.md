@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-23Tx:xx:xx+4:30
+date: 2025-04-21Tx:xx:xx+4:30
 title: Lecture 26 - The Policy Gradient; Control Variates; Actor-Critic Methods
 
 # optional

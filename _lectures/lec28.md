@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-25Tx:xx:xx+4:30
+date: 2025-04-28Tx:xx:xx+4:30
 title: Lecture 28 - Chapter 9 - Delayed Targets; Double Q-Learning + Closing remarks
 
 # optional

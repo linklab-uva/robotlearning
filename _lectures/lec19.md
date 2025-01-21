@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-28Tx:xx:xx+4:30
+date: 2025-03-26Tx:xx:xx+4:30
 title: Lecture 20 - Policy Iteration & Chapter 6 Introduction
 
 # optional

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-25Tx:xx:xx+4:30
+date: 2025-04-23Tx:xx:xx+4:30
 title: Lecture 27 - Chapter 9 - Q-Learning
 
 # optional
