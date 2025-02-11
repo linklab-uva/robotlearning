@@ -12,6 +12,7 @@ Detailed instructor notes in addition to supplementary reading material from the
 4. (Sutton) “Reinforcement Learning: An Introduction” by Richard Sutton and Andrew Barto [PDF](http://incompleteideas.net/book/the-book.html){:target="_blank"}
 5. (d2l) Dive into Deep Learning by Aston Zhang, Zack Lipton, Mu Li and Alex Smola available at [https://d2l.ai](https://d2l.ai){:target="_blank"} is a good reference to read about deep learning.
 6. (Russell) “Artificial Intelligence: A Modern Approach” by Stuart Russell and Peter Norvig. [PDF](/docs/Russell.pdf){:target="_blank"}
+7. (Rugh) “Linear System Theory” by Wilson J Rugh. [PDF](/docs/rugh-linear-system-theory.pdf){:target="_blank"}
 
 # Additional Reading Material
 The following books contain some advanced material. You can use it for your own reference and to brush up fundamentals of machine learning and optimization.
