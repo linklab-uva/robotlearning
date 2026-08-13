@@ -1,8 +1,8 @@
 ---
 layout: home
+hero_image: /_images/robotlearning_updated.png
+hero_alt: Learning in Robotics — foundations of perception, planning, control, and learning for intelligent robots
 ---
-
-![Robot Learning](/_images/robotlearning_updated.png)
 
 ## Why this course
 

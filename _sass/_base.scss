@@ -507,3 +507,101 @@ a.tosu {
         border-bottom: 0 !important;
     }
 }
+/* --------------------------------------------------------------------------
+   2027 visual refresh
+   -------------------------------------------------------------------------- */
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: $base-font-family;
+  font-size: 16px;
+  line-height: 1.72;
+  font-weight: 400;
+  color: #344054;
+  background:
+    radial-gradient(circle at 85% -10%, rgba(29, 95, 167, 0.055), transparent 30rem),
+    #ffffff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection { background: rgba(229, 114, 0, 0.18); }
+
+.wrapper {
+  max-width: 1120px;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Space Grotesk', sans-serif;
+  color: #0b1220;
+  font-weight: 650;
+  letter-spacing: -0.025em;
+  line-height: 1.18;
+}
+
+h1 { font-size: clamp(2.15rem, 5vw, 3.65rem); letter-spacing: -0.05em; }
+h2 { font-size: clamp(1.55rem, 3vw, 2.05rem); margin-top: 2.75rem; }
+h3 { font-size: 1.2rem; margin-top: 2rem; }
+
+p { max-width: 78ch; }
+
+strong { color: #182230; font-weight: 650; }
+
+a {
+  color: #155eef;
+  text-decoration: none;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+a:hover { color: #004eeb; text-decoration: underline; }
+
+hr {
+  border: 0;
+  border-top: 1px solid #eaecf0;
+  margin: 3rem 0;
+}
+
+blockquote {
+  margin: 2rem 0;
+  padding: 1.15rem 1.35rem;
+  color: #344054;
+  background: #f8fafc;
+  border: 0;
+  border-left: 3px solid $accent-color;
+  border-radius: 0 12px 12px 0;
+  font-size: 1rem;
+  letter-spacing: 0;
+  font-style: normal;
+}
+
+pre, code {
+  border-color: #e4e7ec;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+article ul, .post-content ul, .home-content ul { list-style: none; margin-left: 0; }
+article ul > li, .post-content ul > li, .home-content ul > li {
+  position: relative;
+  padding-left: 1.45rem;
+  margin-bottom: 0.5rem;
+}
+article ul > li:before, .post-content ul > li:before, .home-content ul > li:before {
+  content: "";
+  position: absolute;
+  left: 0.15rem;
+  top: 0.72em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: $accent-color;
+  margin: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .wrapper { padding-left: 20px; padding-right: 20px; }
+  body { font-size: 15px; }
+}

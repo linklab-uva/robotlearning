@@ -3,61 +3,55 @@ layout: default
 ---
 
 <div class="home">
+  {% if page.hero_image %}
+  <figure class="course-hero">
+    <img src="{{ page.hero_image | prepend: site.baseurl }}" alt="{{ page.hero_alt | default: site.course_name }}">
+  </figure>
+  {% endif %}
 
-    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+  <div class="course-manifesto" aria-label="Course philosophy">
+    <span class="manifesto-mark" aria-hidden="true">↳</span>
+    <p><strong>Robotics changes rapidly. Principles endure.</strong> This course is about learning the ideas that survive the architectures.</p>
+  </div>
 
-    {% include announcements.html %}
-    <br />
+  {% include announcements.html %}
 
-    <h2>Course Description</h2>
-    <p>{{ site.course_description }}</p>
-
+  <article class="home-content">
     {{ content }}
+  </article>
 
+  <section class="people-section" aria-labelledby="course-team-heading">
+    <div class="section-eyebrow">Course team</div>
+    <h2 id="course-team-heading">Instructor &amp; teaching staff</h2>
 
-    <br>
-    <div>
-        <div style="width:50%; float: left">
-            <!-- <h2>Instructors</h2> -->
-            <!-- <div class="image--cover-container">
-                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p>{{site.data.people.instructor.name}}</p>
-            </div> -->
-
-            <div class="profile-pic-gallary ">
-                <h2>Instructor</h2>
-                {% for ins in site.data.people.instructors %}
-                <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p>{{ins.name}}</p>
-                    <p>{{ins.email}}</p>
-                    <p><a href="{{ ins.webpage }}">Website</a></p>
-                    {% else %}
-                    <p>{{ins.name}}</p>
-                    <p>{{ins.email}}</p>
-                    {% endif %}
-                </div>
-                {% endfor %}
-            </div>
+    <div class="people-grid">
+      {% for ins in site.data.people.instructors %}
+      <article class="person-card person-card--lead">
+        <img src="{{ ins.profile_pic | prepend: site.baseurl }}" alt="{{ ins.name }}" class="person-photo">
+        <div class="person-meta">
+          <span class="person-role">Instructor</span>
+          <h3>{{ ins.name }}</h3>
+          {% if ins.title %}<p class="person-title">{{ ins.title }}</p>{% endif %}
+          {% if ins.bio %}<p class="person-bio">{{ ins.bio }}</p>{% endif %}
+          <div class="person-links">
+            <a href="mailto:{{ ins.email }}">Email</a>
+            {% if ins.webpage %}<a href="{{ ins.webpage }}" target="_blank" rel="noopener">Website <span aria-hidden="true">↗</span></a>{% endif %}
+          </div>
         </div>
+      </article>
+      {% endfor %}
 
-        <div style="width:50%; float: left">
-            <div class="profile-pic-gallary ">
-                <h2>Teaching Assistant</h2>
-                {% for ta in site.data.people.teaching_assistants %}
-                <div class="image--cover-container">
-                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ta.webpage %}
-                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
-                    {% else %}
-                    <p>{{ta.name}}</p>
-                    <p>{{ta.email}}</p>
-                    {% endif %}
-
-                </div>
-                {% endfor %}
-            </div>
+      {% for ta in site.data.people.teaching_assistants %}
+      <article class="person-card">
+        <img src="{{ ta.profile_pic | prepend: site.baseurl }}" alt="{{ ta.name }}" class="person-photo">
+        <div class="person-meta">
+          <span class="person-role">Teaching assistant</span>
+          <h3>{{ ta.name }}</h3>
+          <p>{{ ta.email }}</p>
+          {% if ta.webpage %}<a href="{{ ta.webpage }}" target="_blank" rel="noopener">Website <span aria-hidden="true">↗</span></a>{% endif %}
         </div>
+      </article>
+      {% endfor %}
     </div>
+  </section>
 </div>
