@@ -1,7 +1,12 @@
 # Site settings
 course_name: Learning in Robotics
-course_description: "We will cover the mathematical foundations of robotics in this graduate-level course. We will rigorously explore the three pillars of robotics: perception, planning, and control. We’ll commence with theoretical discussions on state estimation methods, including the Kalman Filter, EKF, UKF, and Particle Filters, progress to mapping and visual odometry, and then navigate the intricacies of dynamic programming, control, and planning methods such as LQR and MDPs. Our journey will culminate in reinforcement learning models for robotics, like policy gradients and Q-learning, and specialized topics like foundation models for robotics. To ensure practical application, students will undertake programming assignments addressing real-world robotics challenges. While primarily for graduate students, undergraduates may enroll with the instructor’s approval."
-course_semester: "Spring 2025"
+course_description: "Learning in Robotics develops the mathematical and algorithmic foundations for robots that estimate, predict, plan, control, and learn. The course covers probabilistic state estimation, optimal control, sequential decision making, imitation learning, reinforcement learning, and modern robot learning, with connections to foundation models, vision-language-action systems, and world models. While primarily for graduate students, undergraduates may enroll with the instructor’s approval."
+course_semester: "Spring 2027"
+
+title: "Learning in Robotics"
+tagline: "Robot Learning, Reinforcement Learning, and Embodied AI at UVA"
+
+description: "Learning in Robotics is a graduate course at the University of Virginia taught by Prof. Madhur Behl. The course covers probabilistic state estimation, planning and control, imitation learning, reinforcement learning, model-based learning, and connections to modern embodied AI, robot foundation models, vision-language-action models, and world models."
 
 baseurl: "/robotlearning" # the subpath of your site, e.g. /blog/
 url: "https://linklab-uva.github.io" # the base hostname & protocol for your site
@@ -50,3 +55,8 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
