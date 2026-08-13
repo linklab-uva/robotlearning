@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Robot Learning](/_images/robotlearning.jpeg)
+![Robot Learning](/_images/robotlearning_updated.png)
 
 ## Why this course
 
