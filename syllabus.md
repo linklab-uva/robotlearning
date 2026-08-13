@@ -6,22 +6,31 @@ permalink: /syllabus/
 
 ## Course Syllabus
 
+The course is organized around four questions: **How should a robot represent uncertain state? How should it make sequential decisions? How can it learn behavior from data and experience? How do these ideas appear in modern robot-learning systems?**
+
+The first three modules develop the mathematical foundations in depth. The final module deliberately connects those foundations to contemporary robot learning rather than treating recent methods as a separate vocabulary.
+
 PDF copy of the syllabus [PDF](/docs/syllabus.pdf){:target="_blank"}
 
-### Module 1: State Estimation (11 lectures)
+### Module 1: Estimation and Reasoning Under Uncertainty (~11 lectures)
 - Background on probability
-- Topics: Markov chains, Hidden Markov Models, Kalman Filter, Extended and Unscented Kalman Filter, particle filters, occupancy grids, transformations
+- Topics: Markov chains, Hidden Markov Models, Kalman Filter, Extended and Unscented Kalman Filter, particle filters, occupancy grids, rigid transformations
+- **Core question:** What should the robot believe about the state of the world, and how should that belief change as new observations arrive?
 
-### Module 2: Control and Planning (5-6 lectures)
-- Background on linear control, dynamic programming
-- Topics: Markov Decision Processes, Value and Policy Iteration, Bellman equation, Linear Quadratic Regulator, Linear Quadratic Gaussian, Sampling-based motion planning
+### Module 2: Sequential Decision-Making, Control, and Planning (~6 lectures)
+- Background on linear control and dynamic programming
+- Topics: Markov Decision Processes, Bellman equation, Value and Policy Iteration, Linear Quadratic Regulator, Linear Quadratic Gaussian control, Iterative LQR, sampling-based motion planning
+- **Core question:** Given a model of the world, how should a robot choose actions over time?
 
-### Module 3: Reinforcement Learning for Robotics (7 lectures)
-- Background on deep learning and optimization
-- Topics: Imitation Learning, Policy gradient, Q-Learning, Inverse RL, Model-based RL, Offline RL
+### Module 3: Learning to Act (~7 lectures)
+- Background on optimization and deep learning
+- Topics: Imitation Learning, Policy Gradient methods, Q-Learning, Inverse RL, Model-Based RL, Offline RL, Deep RL
+- **Core question:** When the model or the desired behavior is not known explicitly, how can a robot learn a useful policy from demonstrations, interaction, or previously collected data?
 
-### Module 4: Miscellaneous topics (2 lecture)
-- Meta-Learning, Sim2Real
+### Module 4: From Robot Learning to Modern Embodied AI (~1-2 lectures)
+- Topics: generalization and Sim2Real, meta-learning/adaptation, generative robot policies, robot foundation models, vision-language-action models, and world models
+- **Core question:** Which parts of the classical robot-learning stack are being replaced, which are being learned, and which remain fundamentally the same?
+- This module is intended as a conceptual bridge. The emphasis is on understanding how the foundations from Modules 1–3 reappear in current systems, not on surveying every recent model.
 
 ## Tentative schedule
 
