@@ -4,7 +4,27 @@ layout: home
 
 ![Robot Learning](/_images/robotlearning.jpeg)
 
-### **Time**: MoWe 3:30pm - 4:45pm	Rice Hall 340
+## Why this course
+
+Robotics is moving quickly. Large-scale robot datasets, generative policies, vision-language-action models, and world models are changing what robot learning systems look like. The underlying problems, however, are remarkably persistent: a robot must still reason under uncertainty, infer state from incomplete observations, predict what happens next, choose actions over time, and learn from data and experience.
+
+This course develops those foundations in detail. We study classical methods such as Bayesian filtering, Kalman filtering, dynamic programming, and optimal control not as historical artifacts, but as precise ways of thinking about fundamental robptics problems: estimation, prediction, and sequential decision-making. We then build toward imitation learning, reinforcement learning, model-based learning, offline learning, and the ideas that underpin modern robot-learning systems.
+
+The goal is not to train you on one current architecture. It is to give you the mathematical depth to understand why modern methods work, where they fail, and how to reason about whatever comes next.
+
+### From foundations to modern robot learning
+
+A recurring theme in the course is continuity. Many ideas that appear new in modern Physical AI have close relatives in classical robotics:
+
+- **State estimation → learned representations:** what information about the world should a robot maintain?
+- **Bayesian filtering → uncertainty-aware learning:** how should observations and prior knowledge be combined?
+- **Dynamics and control → world models:** how should a robot predict the consequences of its actions?
+- **Dynamic programming and MPC → learned planning:** how should a robot reason over future actions?
+- **Imitation and reinforcement learning → robot foundation models:** how can behavior be learned and transferred from data?
+
+These topics are a bridge to a future **Learning in Robotics II** course that will be devoted to modern robotics and foundation-model approaches.
+
+### **Schedule**: Spring 2027 — time and location TBA
 
 
 ## Prerequisites Required
