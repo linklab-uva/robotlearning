@@ -3,6 +3,8 @@ instructors:
     profile_pic: /_images/pp/madhur.jpeg
     email: madhur.behl@virginia.edu
     webpage: https://www.madhurbehl.com/
+    title: Associate Professor of Computer Science, University of Virginia
+    bio: I work at the intersection of robotics, autonomy, control, and machine learning, with a particular interest in systems that must learn and make decisions in the physical world. My research spans autonomous racing, safe autonomy, learning-enabled control, and intelligent transportation.
 
 
 teaching_assistants:
