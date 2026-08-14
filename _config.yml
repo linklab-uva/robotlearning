@@ -37,7 +37,7 @@ permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
 include: ['_images', '_css']
-exclude: ['develop']
+exclude: ['develop', 'README-VISUAL-REFRESH.md', 'TYPOGRAPHY.md', 'GITHUB-PAGES-FIX.md', 'vendor']
 
 dateformat: "%m/%d/%Y"
 

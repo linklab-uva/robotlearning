@@ -5,7 +5,7 @@ layout: default
 <div class="home">
   {% if page.hero_image %}
   <figure class="course-hero">
-    <img src="{{ page.hero_image | prepend: site.baseurl }}" alt="{{ page.hero_alt | default: site.course_name }}">
+    <img src="{{ page.hero_image | relative_url }}" alt="{{ page.hero_alt | default: site.course_name }}">
   </figure>
   {% endif %}
 
@@ -27,7 +27,7 @@ layout: default
     <div class="people-grid">
       {% for ins in site.data.people.instructors %}
       <article class="person-card person-card--lead">
-        <img src="{{ ins.profile_pic | prepend: site.baseurl }}" alt="{{ ins.name }}" class="person-photo">
+        <img src="{{ ins.profile_pic | relative_url }}" alt="{{ ins.name }}" class="person-photo">
         <div class="person-meta">
           <span class="person-role">Instructor</span>
           <h3>{{ ins.name }}</h3>
@@ -43,7 +43,7 @@ layout: default
 
       {% for ta in site.data.people.teaching_assistants %}
       <article class="person-card">
-        <img src="{{ ta.profile_pic | prepend: site.baseurl }}" alt="{{ ta.name }}" class="person-photo">
+        <img src="{{ ta.profile_pic | relative_url }}" alt="{{ ta.name }}" class="person-photo">
         <div class="person-meta">
           <span class="person-role">Teaching assistant</span>
           <h3>{{ ta.name }}</h3>
