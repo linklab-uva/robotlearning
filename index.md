@@ -27,14 +27,18 @@ These topics are a bridge to a future **Learning in Robotics II** course that wi
 ### **Schedule**: Spring 2027 — time and location TBA
 
 
-## Prerequisites Required
-- Proficiency in programming. All assignments will be based on Python but if you have used a similar language like MATLAB before, you should be able to pick up Python easily. Recitation sessions will provide preparatory material.
+## Prerequisites 
+
+### **Required**
+- Proficiency in programming. All assignments will be based on Python but if you have used a similar language like MATLAB before, you should be able to pick up Python easily. 
 - Probability
 - Linear Algebra
 
-__Consider attempting Homework 0. This homework is optional and doesn't require submission. If you find the questions manageable, you possess the necessary mathematical prerequisites for the course. If you think a brief review would enable you to tackle these questions, that will be our starting point for the course. However, if these questions are entirely perplexing to you, it's possible that you haven't met the prerequisite requirements.__
+__Self Assessment: Attempt Homework 0. This homework doesn't require submission. If you find the questions manageable, you possess the necessary mathematical prerequisites for the course. If you think a brief review would enable you to tackle these questions, that will be our starting point for the course but the review will be fast. However, if these questions are entirely perplexing to you, it's possible that you haven't met the prerequisite requirements.__
 
-## Recommended
+__While primarily for graduate students, undergraduates may enroll with the instructor’s approval.__
+
+### **Recommended**
 - Machine Learning or Data Analysis (CS 4774 or CS 6316 or Equivalent)
 - (Soft recommendation) Optimization 
 

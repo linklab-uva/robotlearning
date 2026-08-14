@@ -1,6 +1,6 @@
 # Site settings
 course_name: Learning in Robotics
-course_description: "Learning in Robotics develops the mathematical and algorithmic foundations for robots that estimate, predict, plan, control, and learn. The course covers probabilistic state estimation, optimal control, sequential decision making, imitation learning, reinforcement learning, and modern robot learning, with connections to foundation models, vision-language-action systems, and world models. While primarily for graduate students, undergraduates may enroll with the instructor’s approval."
+course_description: "Learning in Robotics develops the mathematical and algorithmic foundations for robots that estimate, predict, plan, control, and learn. The course covers probabilistic state estimation, optimal control, sequential decision making, imitation learning, reinforcement learning, and modern robot learning, with connections to foundation models, vision-language-action systems, and world models."
 course_semester: "Spring 2027"
 
 # Typography preset: modern | editorial | technical | minimal
