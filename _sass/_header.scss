@@ -57,7 +57,7 @@
 .site-nav .menu {
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 10px;   // was 4px
   list-style: none;
   margin: 0;
   padding: 0;
@@ -67,10 +67,10 @@
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  padding: 9px 11px;
+  padding: 10px 14px;      // was 9px 11px
   border-radius: 9px;
-  font-size: 0.79rem;
-  font-weight: 600;
+  font-size: 0.92rem;      // was 0.79rem
+  font-weight: 650;
   color: #344054;
   transition: background 160ms ease, color 160ms ease, transform 160ms ease;
 }
