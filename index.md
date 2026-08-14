@@ -1,14 +1,14 @@
 ---
 layout: home
 hero_image: /_images/robotlearning_updated.png
-hero_alt: Learning in Robotics — foundations of perception, planning, control, and learning for intelligent robots
+hero_alt: Learning in Robotics — Madhur Behl - foundations of perception, planning, control, and learning for intelligent robots
 ---
 
 ## Why this course
 
 Robotics is moving quickly. Large-scale robot datasets, generative policies, vision-language-action models, and world models are changing what robot learning systems look like. The underlying problems, however, are remarkably persistent: a robot must still reason under uncertainty, infer state from incomplete observations, predict what happens next, choose actions over time, and learn from data and experience.
 
-This course develops those foundations in detail. We study classical methods such as Bayesian filtering, Kalman filtering, dynamic programming, and optimal control not as historical artifacts, but as precise ways of thinking about fundamental robptics problems: estimation, prediction, and sequential decision-making. We then build toward imitation learning, reinforcement learning, model-based learning, offline learning, and the ideas that underpin modern robot-learning systems.
+This course develops those foundations in detail. We study classical methods such as Bayesian filtering, Kalman filtering, dynamic programming, and optimal control not as historical artifacts, but as precise ways of thinking about fundamental robotics problems: estimation, prediction, and sequential decision-making. We then build toward imitation learning, reinforcement learning, model-based learning, offline learning, and the ideas that underpin modern robot-learning systems.
 
 The goal is not to train you on one current architecture. It is to give you the mathematical depth to understand why modern methods work, where they fail, and how to reason about whatever comes next.
 
