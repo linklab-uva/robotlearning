@@ -37,6 +37,7 @@ These topics are a bridge to a future **Learning in Robotics II** course that wi
 __Self Assessment: Attempt Homework 0. This homework doesn't require submission. If you find the questions manageable, you possess the necessary mathematical prerequisites for the course. If you think a brief review would enable you to tackle these questions, that will be our starting point for the course but the review will be fast. However, if these questions are entirely perplexing to you, it's possible that you haven't met the prerequisite requirements.__
 
 __While primarily for graduate students, undergraduates may enroll with the instructor’s approval.__
+Undergraduate engineering students need to request approval to enroll in graduate level courses by submitting a [form] (https://engineering.virginia.edu/undergraduate-study/current-undergrads/degree-information/undergraduate-registration-forms)
 
 ### **Recommended**
 - Machine Learning or Data Analysis (CS 4774 or CS 6316 or Equivalent)
