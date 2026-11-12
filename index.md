@@ -24,7 +24,10 @@ A recurring theme in the course is continuity. Many ideas that appear new in mod
 
 These topics are a bridge to a future **Learning in Robotics II** course that will be devoted to modern robotics and foundation-model approaches.
 
-### **Schedule**: Spring 2027 — time and location TBA
+### **Schedule**
+- Meets: Once a week on Friday 9:30AM - 12:15PM
+- Instruction Mode: In Person
+- Room: Rice Hall 340
 
 
 ## Prerequisites 
